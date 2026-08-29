@@ -1,1 +1,0 @@
-View when going up
